@@ -1,6 +1,6 @@
 # guess-my-number
 
-It is a simple website/game in which the user has to test the random number generated. Site is updated dynamically.
+It is a simple website/game in which the user has to guess the random number generated. Site is made interactive using JavaScript.
 
 Website: 
 
